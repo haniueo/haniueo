@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=haniueo&theme=bear&show_icons=true&locale=en" alt="haniueo" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haniueo&theme=bear&show_icons=true&locale=en&layout=compact" alt="haniueo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haniueo&theme=bear&show_icons=true&locale=en&layout=compact" alt="haniueo" /></p>
