@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **Node.js , flutter**
 
 - 📫 How to reach me **hanifahcitra010.if19@student.unusa.ac.id**
-
-- 📄 Know about my experiences [on my linkedin](https://www.linkedin.com/in/hanifah-citra-b837b0200/)
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haniueo&theme=bear&show_icons=true&locale=en&layout=compact" alt="haniueo" /></p>
 
