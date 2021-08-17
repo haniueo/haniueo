@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hanifahcitra010.if19@student.unusa.ac.id**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hanifah-citra-b837b0200/](https://www.linkedin.com/in/hanifah-citra-b837b0200/)
+- 📄 Know about my experiences [on my linkedin](https://www.linkedin.com/in/hanifah-citra-b837b0200/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haniueo&theme=bear&show_icons=true&locale=en&layout=compact" alt="haniueo" /></p>
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/haniiueo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haniiueo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hanifah citra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanifah citra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hanifah citra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanifah-citra-b837b0200" height="30" width="40" /></a>
 <a href="https://instagram.com/haniueo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haniueo" height="30" width="40" /></a>
 </p>
 
