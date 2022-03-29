@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haniueo&label=Profile%20views&color=0e75b6&style=flat" alt="haniueo" /> </p>
 
-- 🌱 I’m currently learning **Node.js , Flutter**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **hanifahcitra010.if19@student.unusa.ac.id**
 <br>
