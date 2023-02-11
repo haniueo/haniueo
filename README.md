@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 📫 How to reach me **hanifahcitra010.if19@student.unusa.ac.id**
+- 📫 How to reach me **hanifahcitram123@gmail.com**
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haniueo&theme=bear&show_icons=true&locale=en&layout=compact" alt="haniueo" /></p>
 
